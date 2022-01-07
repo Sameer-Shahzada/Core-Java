@@ -6,7 +6,7 @@
     -> Ways of method overloading
     1- By changing the no. of arguments
     2- By changing the data types
-    3- By changing the return type only
+  
 
 */
 
