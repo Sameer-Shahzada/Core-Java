@@ -6,7 +6,7 @@
 
 */
 
-// -> What is invoked first constructor or block?
+// -> What is invoked first constructor or instance initializer block?
 
 package Day23;
 
