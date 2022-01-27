@@ -13,8 +13,7 @@
     
 */
 
-// -> 
-
+// -> Lets write a simple program to demonstrate the use of Encapsulation.
 
 package Day37;
 // Create a fully encapsulated class 
